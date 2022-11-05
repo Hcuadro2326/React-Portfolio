@@ -19,7 +19,7 @@
 --color-white: #fff;
 --color-light: rgba(143, 143, 142, 0.995);
 
---transition: all 400ms ease;;
+--transition: all 400ms ease;
 
 --container-width-lg: 75%;
 --container-width-md: 86%;
